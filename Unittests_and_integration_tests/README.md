@@ -2,7 +2,7 @@
 
 ## Resources
 
-### Read or watch:
+### Read or watch the videos:
 
 - [unittest — Unit testing framework](https://intranet.aluswe.com/rltoken/ug8beURP6GPP7yJtQ4I1Jw)
 - [unittest.mock — mock object library](https://intranet.aluswe.com/rltoken/cCjj8L1q_NaYxvFfqFfYPA)
